@@ -25,12 +25,12 @@ function CountryList({ cities, isLoading }) {
   //   });
 
   //   const countries = Array.from(countryMap.values());
-  console.log(countries);
+  // console.log(countries);
 
   return (
     <ul className={styles.countryList}>
       {countries.map((country) => (
-        <CountryItem country={country} key={country} />
+        <CountryItem country={country} key={country.country} />
       ))}
     </ul>
   );
