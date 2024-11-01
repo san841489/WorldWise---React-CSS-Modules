@@ -1,1 +1,1 @@
-This is a sample poject using React!
+This is a sample project using React!
