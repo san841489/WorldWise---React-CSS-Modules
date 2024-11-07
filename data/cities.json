@@ -35,54 +35,6 @@
         "lng": 13.376933665713324
       },
       "id": "98443197"
-    },
-    {
-      "id": "5bce",
-      "cityName": "Rouissat",
-      "country": "Algeria",
-      "emoji": "🇩🇿",
-      "date": "2024-11-06T14:58:15.105Z",
-      "notes": "new",
-      "position": {
-        "lat": "31.3348710339506",
-        "lng": "4.746093750000001"
-      }
-    },
-    {
-      "id": "4855",
-      "cityName": "San Pablo",
-      "country": "Philippines (the)",
-      "emoji": "🇵🇭",
-      "date": "2024-11-06T15:01:26.497Z",
-      "notes": "home",
-      "position": {
-        "lat": "14.064652358057725",
-        "lng": "121.33026123046875"
-      }
-    },
-    {
-      "id": "b65b",
-      "cityName": "Tiaong",
-      "country": "Philippines (the)",
-      "emoji": "🇵🇭",
-      "date": "2024-11-06T15:09:39.891Z",
-      "notes": "new",
-      "position": {
-        "lat": "13.93406718249833",
-        "lng": "121.27670288085939"
-      }
-    },
-    {
-      "id": "0345",
-      "cityName": "Manila",
-      "country": "Philippines (the)",
-      "emoji": "🇵🇭",
-      "date": "2024-11-06T15:16:49.143Z",
-      "notes": "new",
-      "position": {
-        "lat": "14.546367041119531",
-        "lng": "120.99243164062501"
-      }
     }
   ]
 }
