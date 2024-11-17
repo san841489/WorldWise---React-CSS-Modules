@@ -31,6 +31,12 @@ function reducer(state, action) {
         isLoading: false,
         cities: action.payload,
       };
+    case "city/loaded":
+      return {
+        ...state,
+        isLoading: false,
+        currentCity: action.payload,
+      };
 
     case "city/created":
       return {
@@ -56,7 +62,7 @@ function reducer(state, action) {
       };
 
     default:
-      throw new Error("Unknown action type");
+      throw new Error(`Unknown action type: ${action.type}`);
   }
 }
 
